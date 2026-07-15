@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "24c15e37e9f2dde1",
+    "type": "split",
+    "children": [
+      {
+        "id": "95015b5d39cd213a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4cd0eea770a0800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GenAi/Building Applications Notes/Langchain/1. Why use LangChain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Why use LangChain"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97faf0031023d61b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e2cd1c2a09263b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1fc8dd6557fbd91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0726d497f3091169",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ad3e24eb4e1407f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5feb19df80cbecaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e95da20ff99121f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c26e90835f2cf74c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GenAi/Building Applications Notes/Langchain/1. Why use LangChain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. Why use LangChain"
+            }
+          },
+          {
+            "id": "8f5ab4d2d8e8e637",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GenAi/Building Applications Notes/Langchain/1. Why use LangChain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Why use LangChain"
+            }
+          },
+          {
+            "id": "ac16eb7de629d8ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "987768dddb75be01",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d9d48733ca49bd1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GenAi/Building Applications Notes/Langchain/1. Why use LangChain.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Why use LangChain"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d1fc8dd6557fbd91",
+  "lastOpenFiles": [
+    "README.md",
+    "New folder",
+    "GenAi/Building Applications Notes/Langchain/0. LangChain Roadmap.md",
+    "GenAi/Building Applications Notes/Langchain/1. Why use LangChain.md",
+    "GenAi/1. GenAi Roadmap.md",
+    "GenAi/Building Applications Notes/Langchain",
+    "GenAi/Building Applications Notes",
+    "GenAi/Building Models Notes",
+    "GenAi/Untitled.md",
+    "GenAi/Resources/Images/Pasted image 20260716000954.png",
+    "GenAi/Resources/Images/Pasted image 20260716001021.png",
+    "GenAi/Resources/Images/Pasted image 20260716000947.png",
+    "GenAi/Resources/Images",
+    "GenAi/Resources",
+    "Untitled",
+    "Untitled.md",
+    "GenAi/Resources/Images/Pasted image 20260716001114.png",
+    "Pasted image 20260716000727.png",
+    "Welcome.md",
+    "GenAi"
+  ]
+}
