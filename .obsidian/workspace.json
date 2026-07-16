@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "95015b5d39cd213a",
+        "id": "22660e9eea2a26bc",
         "type": "tabs",
         "children": [
           {
-            "id": "e4cd0eea770a0800",
+            "id": "c975a154953c9679",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GenAi/Building Applications Notes/Langchain/1. Why use LangChain.md",
+                "file": "GenAi/Building Applications Notes/Langchain/2. LangChain Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Why use LangChain"
+              "title": "2. LangChain Components"
             }
           }
         ]
@@ -183,27 +183,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "d1fc8dd6557fbd91",
+  "active": "c975a154953c9679",
   "lastOpenFiles": [
+    "GenAi/Resources/Images/Langchain/Pasted image 20260717030305.png",
+    "GenAi/Resources/Images/Langchain/Pasted image 20260717030323.png",
+    "GenAi/Resources/Images/Langchain/Pasted image 20260717030243.png",
+    "GenAi/Resources/Images/Langchain/Pasted image 20260717030018.png",
+    "GenAi/Resources/Images/Langchain/Pasted image 20260717025215.png",
+    "GenAi/Resources/Images/Langchain",
+    "GenAi/Resources/Images/Other/Pasted image 20260716001114.png",
+    "GenAi/Resources/Images/Other/Pasted image 20260716001021.png",
+    "GenAi/Resources/Images/Other/Pasted image 20260716000947.png",
+    "GenAi/Resources/Images/Langchain/Pasted image 20260717025826.png",
+    "GenAi/Resources/Images/Other",
+    "GenAi/Resources/Images/Other/Pasted image 20260716000954.png",
+    "GenAi/Building Applications Notes/Langchain/2. LangChain Components.md",
+    "GenAi/Resources/Images/Langchain/Pasted image 20260717031211.png",
+    "Untitled.md",
+    "GenAi/1. GenAi Roadmap.md",
+    "GenAi/Resources/Notes/langchain.pdf",
+    "GenAi/Resources/Notes/langchain.pdf.crdownload",
+    "GenAi/Resources/Notes",
+    "GenAi/Resources/New folder",
+    "GenAi/Building Applications Notes/Langchain/1. Why use LangChain.md",
     "README.md",
     "New folder",
     "GenAi/Building Applications Notes/Langchain/0. LangChain Roadmap.md",
-    "GenAi/Building Applications Notes/Langchain/1. Why use LangChain.md",
-    "GenAi/1. GenAi Roadmap.md",
     "GenAi/Building Applications Notes/Langchain",
     "GenAi/Building Applications Notes",
     "GenAi/Building Models Notes",
     "GenAi/Untitled.md",
-    "GenAi/Resources/Images/Pasted image 20260716000954.png",
-    "GenAi/Resources/Images/Pasted image 20260716001021.png",
-    "GenAi/Resources/Images/Pasted image 20260716000947.png",
-    "GenAi/Resources/Images",
-    "GenAi/Resources",
-    "Untitled",
-    "Untitled.md",
-    "GenAi/Resources/Images/Pasted image 20260716001114.png",
-    "Pasted image 20260716000727.png",
-    "Welcome.md",
-    "GenAi"
+    "Welcome.md"
   ]
 }
