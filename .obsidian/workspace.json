@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GenAi/Building Applications Notes/Langchain/4. Prompting.md",
+                "file": "GenAi/Building Applications Notes/Langchain/8. Runnables in LangChains.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Prompting"
+              "title": "8. Runnables in LangChains"
             }
           }
         ]
@@ -185,12 +185,17 @@
   },
   "active": "f4a1666ecb72dcdd",
   "lastOpenFiles": [
-    "GenAi/Building Applications Notes/Langchain/2. LangChain Components.md",
+    "GenAi/Building Applications Notes/Langchain/7. Chains in LangChain.md",
+    "GenAi/Building Applications Notes/Langchain/8. Runnables in LangChains.md",
+    "GenAi/Building Applications Notes/Langchain/6. Output Parsers.md",
+    "GenAi/Building Applications Notes/Langchain/5. Structured Outputs.md",
     "GenAi/Building Applications Notes/Langchain/4. Prompting.md",
+    "GenAi/Building Applications Notes/Langchain/3. LangChain Models.md",
+    "GenAi/Building Applications Notes/Langchain/2. LangChain Components.md",
+    "GenAi/Building Applications Notes/Langchain/0. LangChain Roadmap.md",
     "GenAi/Code/LangChain/Embeddings/document_similarity.ipynb",
     "GenAi/Code/LangChain/Embeddings/Untitled.ipynb",
     "GenAi/Building Applications Notes/Langchain/1. Why use LangChain.md",
-    "GenAi/Building Applications Notes/Langchain/3. LangChain Models.md",
     "GenAi/Code/LangChain/LLMChatbot/huggingFace_local_model.ipynb",
     "GenAi/Code/LangChain/LLMChatbot/Untitled.ipynb",
     "GenAi/Code/LangChain/Embeddings/embedding_local_model.ipynb",
@@ -198,7 +203,6 @@
     "GenAi/Code/LangChain/Embeddings",
     "GenAi/Code/LangChain/Untitled Folder",
     "Untitled.md",
-    "GenAi/Building Applications Notes/Langchain/0. LangChain Roadmap.md",
     "GenAi/Code/LangChain/venv/Lib/site-packages/httpx/_transports/__pycache__/__init__.cpython-314.pyc",
     "GenAi/Code/LangChain/venv/Lib/site-packages/httpx/_transports/__pycache__/wsgi.cpython-314.pyc",
     "GenAi/Code/LangChain/venv/Lib/site-packages/anthropic/lib/google_cloud/README.md",
@@ -222,10 +226,6 @@
     "GenAi/Code/LangChain/venv/Lib/site-packages/numpy-2.5.1.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
     "GenAi/Code/LangChain/venv/Lib/site-packages/numpy-2.5.1.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
     "GenAi/Code/LangChain/venv/Lib/site-packages/numpy-2.5.1.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/numpy-2.5.1.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/numpy-2.5.1.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/numpy-2.5.1.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/numpy-2.5.1.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
     "GenAi/Resources/Images/Langchain/Pasted image 20260717030305.png",
     "GenAi/Resources/Images/Langchain/Pasted image 20260717030323.png",
     "GenAi/Resources/Images/Langchain/Pasted image 20260717030243.png",
