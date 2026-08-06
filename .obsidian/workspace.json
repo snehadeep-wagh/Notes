@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "24c15e37e9f2dde1",
+    "type": "split",
+    "children": [
+      {
+        "id": "643f814e83a7025a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7848e27a9b259be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GenAi/Building Applications Notes/Langchain/6. Output Parsers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Output Parsers"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97faf0031023d61b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e2cd1c2a09263b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1fc8dd6557fbd91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0726d497f3091169",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ad3e24eb4e1407f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.4485855102539
+  },
+  "right": {
+    "id": "5feb19df80cbecaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e95da20ff99121f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c26e90835f2cf74c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GenAi/Building Applications Notes/Langchain/1. Why use LangChain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. Why use LangChain"
+            }
+          },
+          {
+            "id": "8f5ab4d2d8e8e637",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GenAi/Building Applications Notes/Langchain/1. Why use LangChain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Why use LangChain"
+            }
+          },
+          {
+            "id": "ac16eb7de629d8ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "987768dddb75be01",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d9d48733ca49bd1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GenAi/Building Applications Notes/Langchain/1. Why use LangChain.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Why use LangChain"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d1fc8dd6557fbd91",
+  "lastOpenFiles": [
+    "GenAi/Building Applications Notes/Langchain/RAG/6. RAG Background & Pipeline.md",
+    "GenAi/Building Applications Notes/Langchain/RAG/5. Retrievers.md",
+    "GenAi/Building Applications Notes/Langchain/RAG/4. Vectore Store.md",
+    "GenAi/Building Applications Notes/Langchain/RAG/3. Text Splitters.md",
+    "GenAi/Projects/PageAI/backend/env",
+    "GenAi/Projects/PageAI/backend",
+    "GenAi/Projects/PageAI/New folder",
+    "GenAi/Projects/PageAI",
+    "GenAi/Projects/GenAI",
+    "GenAi/Projects/New folder",
+    "GenAi/Projects",
+    "GenAi/New folder",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/schemas/embedding_functions/together_ai.json",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/schemas/embedding_functions/voyageai.json",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/schemas/embedding_functions/README.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/uvicorn-0.52.1.dist-info/licenses/LICENSE.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/starlette-1.4.1.dist-info/licenses/LICENSE.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/chromadb/utils/embedding_functions/schemas/README.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/chromadb/test/distributed/README.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/chromadb/telemetry/README.md",
+    "GenAi/Building Applications Notes/Langchain/RAG/1. Document Loader.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/onnxruntime/tools/mobile_helpers/nnapi_supported_ops.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/onnxruntime/tools/mobile_helpers/coreml_supported_neuralnetwork_ops.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/onnxruntime/tools/mobile_helpers/coreml_supported_mlprogram_ops.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/onnxruntime/Privacy.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/huggingface_hub/templates/modelcard_template.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/huggingface_hub/templates/datasetcard_template.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/opentelemetry/sdk/metrics/_internal/exponential_histogram/mapping/ieee_754.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/idna-3.18.dist-info/licenses/LICENSE.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/narwhals-2.24.0.dist-info/licenses/LICENSE.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/faiss/contrib/torch/README.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.md",
+    "GenAi/Resources/Images/RAG/Pasted image 20260803173728.png",
+    "GenAi/Resources/Images/RAG/Pasted image 20260803173909.png",
+    "GenAi/Building Applications Notes/Langchain/RAG/0. RAG (Retrieval Augmented Generation).md",
+    "GenAi/Resources/Images/RAG/Pasted image 20260803175547.png",
+    "GenAi/Resources/Images/RAG/Pasted image 20260803175448.png",
+    "GenAi/Resources/Images/RAG/Pasted image 20260803174651.png",
+    "GenAi/Resources/Images/RAG/Pasted image 20260803174418.png",
+    "GenAi/Resources/Images/RAG/Pasted image 20260803174337.png",
+    "GenAi/Resources/Images/RAG/Pasted image 20260803174301.png",
+    "GenAi/Resources/Images/RAG/Pasted image 20260803174238.png",
+    "GenAi/Resources/Images/RAG/Pasted image 20260803174158.png",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/langsmith/sandbox/README.md",
+    "GenAi/Projects/PageAI/backend/venv/Lib/site-packages/langsmith/cli/README.md"
+  ]
+}
