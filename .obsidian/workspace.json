@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "66aa6817f5dc14c7",
+        "id": "6728d471a3793585",
         "type": "tabs",
         "children": [
           {
-            "id": "a37cf779ff5ae917",
+            "id": "643b92cb9807acfa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "GenAi/Resources/Images/RAG/Pasted image 20260731031448.png"
+                "file": "GenAi/Building Applications Notes/LangGraph/11. LangSmith.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260731031448"
-            }
-          },
-          {
-            "id": "f192b562f954825f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "GenAi/Resources/Images/RAG/Pasted image 20260731031820.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260731031820"
+              "icon": "lucide-file",
+              "title": "11. LangSmith"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -64,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "super",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,52 +185,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "f192b562f954825f",
+  "active": "643b92cb9807acfa",
   "lastOpenFiles": [
-    "GenAi/Resources/Images/RAG/Pasted image 20260731031448.png",
-    "GenAi/Building Applications Notes/Langchain/RAG/1. Document Loader.md",
-    "GenAi/Resources/Images/RAG/Pasted image 20260731031923.png",
-    "GenAi/Resources/Images/RAG/Pasted image 20260731031820.png",
-    "GenAi/Resources/Notes/langchain.pdf",
-    "GenAi/Resources/Images/RAG/Pasted image 20260731024336.png",
-    "GenAi/Resources/Images/RAG",
-    "GenAi/Building Applications Notes/Langchain/RAG/0. RAG (Retrieval Augmented Generation).md",
-    "GenAi/Resources/Images/RAG/Pasted image 20260731023742.png",
-    "GenAi/Building Applications Notes/Langchain/8. Runnables in LangChains.md",
-    "GenAi/Building Applications Notes/Langchain/RAG",
-    "GenAi/Building Applications Notes/Langchain/7. Chains in LangChain.md",
-    "GenAi/Code/LangChain/chains and runnables/conditional_chains.py",
-    "GenAi/Code/LangChain/chains and runnables/conditional_chains.ipynb",
-    "GenAi/Code/LangChain/chains and runnables/Untitled.ipynb",
-    "GenAi/Code/LangChain/chains and runnables/sequential_chains.ipynb",
-    "GenAi/Code/LangChain/chains and runnables/parallel_chains.ipynb",
-    "GenAi/Code/LangChain/chains and runnables/chains.ipynb",
-    "GenAi/Code/LangChain/chains and runnables",
-    "GenAi/Building Applications Notes/Langchain/6. Output Parsers.md",
+    "GenAi/Building Applications Notes/LangGraph/0. Coding Erros.md",
+    "GenAi/Building Applications Notes/LangGraph/11. LangSmith.md",
+    "GenAi/Code/LangGraph/LangGraph_tool_calling.ipynb",
+    "GenAi/Code/LangGraph/Untitled.ipynb",
+    "GenAi/Building Applications Notes/LangGraph/10. Sqlite + LangGraph.md",
+    "GenAi/Code/LangGraph/LangSmith.ipynb",
+    "GenAi/Code/LangGraph/chatbot.db-shm",
+    "GenAi/Code/LangGraph/chatbot.db-wal",
+    "GenAi/Code/LangGraph/chatbot.db-journal",
+    "GenAi/Code/LangGraph/sqlite checkpointer.ipynb",
+    "GenAi/Code/LangGraph/chatbot.db",
+    "GenAi/Building Applications Notes/LangGraph/9. Streaming in LangGraph.md",
+    "GenAi/Code/LangGraph/Streaming in langgraph.ipynb",
+    "GenAi/Code/LangGraph/Persistence.ipynb",
+    "GenAi/Building Applications Notes/LangGraph/8. (IMP) Persistence.md",
+    "GenAi/Building Applications Notes/LangGraph/7. Iterative Workflow.md",
+    "GenAi/Building Applications Notes/LangGraph/3. LangGraph Core Concepts.md",
+    "GenAi/Resources/Images/LangGraph/Pasted image 20260819002618.png",
+    "GenAi/Building Applications Notes/LangGraph/2. LangChain vs LangGraph.md",
+    "GenAi/Building Applications Notes/LangGraph/6. Conditional Workflow.md",
     "GenAi/Building Applications Notes/Langchain/5. Structured Outputs.md",
+    "GenAi/Building Applications Notes/LangGraph/5. Parallel Workflow.md",
+    "GenAi/Building Applications Notes/LangGraph/4. Sequential Workflow.md",
+    "GenAi/Building Applications Notes/Langchain/6. Output Parsers.md",
     "GenAi/Building Applications Notes/Langchain/4. Prompting.md",
-    "GenAi/Building Applications Notes/Langchain/3. LangChain Models.md",
     "GenAi/Building Applications Notes/Langchain/2. LangChain Components.md",
-    "GenAi/Building Applications Notes/Langchain/0. LangChain Roadmap.md",
-    "GenAi/Building Applications Notes/Langchain/1. Why use LangChain.md",
-    "Untitled.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/anthropic/lib/google_cloud/README.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/anthropic/lib/foundry.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/huggingface_hub/templates/modelcard_template.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/huggingface_hub/templates/datasetcard_template.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/langsmith/sandbox/README.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/langsmith/cli/README.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/sklearn/externals/array_api_extra/README.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/sklearn/externals/array_api_compat/README.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/sklearn/datasets/images/flower.jpg",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/sklearn/datasets/images/china.jpg",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/scipy/ndimage/tests/dots.png",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/scipy/fft/_duccfft/LICENSE.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/images/tqdm.gif",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/images/logo.gif",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/docstring_parser-0.18.0.dist-info/licenses/LICENSE.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/idna-3.18.dist-info/licenses/LICENSE.md",
-    "GenAi/Code/LangChain/venv/Lib/site-packages/narwhals-2.24.0.dist-info/licenses/LICENSE.md"
+    "GenAi/Resources/Images/LangGraph/Pasted image 20260815014236.png",
+    "GenAi/Resources/Images/LangGraph/Pasted image 20260815014317.png",
+    "GenAi/Resources/Images/LangGraph/Pasted image 20260815013950.png",
+    "GenAi/Resources/Images/LangGraph/Pasted image 20260815013826.png",
+    "GenAi/Resources/Images/LangGraph/Pasted image 20260815013802.png",
+    "GenAi/Resources/Images/LangGraph/Pasted image 20260815014120.png",
+    "GenAi/Resources/Images/LangGraph/Pasted image 20260815014046.png",
+    "GenAi/Resources/Images/LangGraph/Pasted image 20260815014024.png",
+    "GenAi/Building Applications Notes/LangGraph/1. What is Agentic AI.md",
+    "GenAi/Resources/Images/LangGraph/Pasted image 20260809031444.png",
+    "GenAi/Building Applications Notes/Langchain/Agents/3. Agents in Langchain.md",
+    "GenAi/Building Applications Notes/Langchain/Agents/2. Tool Calling.md",
+    "GenAi/Building Applications Notes/Langchain/Agents/1. Tools in LangChain.md",
+    "GenAi/1. GenAi Roadmap.md",
+    "GenAi/Building Applications Notes/Langchain/RAG/6. RAG Background & Pipeline.md",
+    "GenAi/Building Applications Notes/Langchain/RAG/3. Text Splitters.md",
+    "GenAi/Building Applications Notes/Langchain/RAG/1. Document Loader.md",
+    "GenAi/Building Applications Notes/Langchain/RAG/0. RAG (Retrieval Augmented Generation).md",
+    "Welcome.md",
+    "GenAi/Building Applications Notes/Langchain/8. Runnables in LangChains.md"
   ]
 }
