@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6728d471a3793585",
+        "id": "2f851b884d052924",
         "type": "tabs",
         "children": [
           {
-            "id": "643b92cb9807acfa",
+            "id": "f67076cb07cdcd06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GenAi/Building Applications Notes/LangGraph/11. LangSmith.md",
+                "file": "GenAi/Building Applications Notes/LangGraph/17. LLM Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. LangSmith"
+              "title": "17. LLM Memory"
             }
           }
         ]
@@ -185,10 +185,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "643b92cb9807acfa",
+  "active": "d1fc8dd6557fbd91",
   "lastOpenFiles": [
-    "GenAi/Building Applications Notes/LangGraph/0. Coding Erros.md",
+    "GenAi/Resources/Images/LangGraph/Pasted image 20260929014324.png",
+    "GenAi/Resources/Images/LangGraph/Pasted image 20260929014206.png",
+    "GenAi/Resources/Images/LangGraph/Pasted image 20260908203236.png",
+    "GenAi/Building Applications Notes/LangGraph/17. LLM Memory.md",
+    "GenAi/Building Applications Notes/LangGraph/16. Subgraphs in LangGraph.md",
+    "GenAi/Building Applications Notes/LangGraph/15. HITL (Human In The Loop).md",
+    "GenAi/Building Applications Notes/LangGraph/14. RAG in LangGraph.md",
+    "GenAi/Building Applications Notes/LangGraph/13. MCP Client using LangGraph.md",
+    "GenAi/Building Applications Notes/LangGraph/12. Tools in Langgraph.md",
     "GenAi/Building Applications Notes/LangGraph/11. LangSmith.md",
+    "GenAi/Building Applications Notes/LangGraph/0. Coding Erros.md",
     "GenAi/Code/LangGraph/LangGraph_tool_calling.ipynb",
     "GenAi/Code/LangGraph/Untitled.ipynb",
     "GenAi/Building Applications Notes/LangGraph/10. Sqlite + LangGraph.md",
@@ -220,18 +229,9 @@
     "GenAi/Resources/Images/LangGraph/Pasted image 20260815013802.png",
     "GenAi/Resources/Images/LangGraph/Pasted image 20260815014120.png",
     "GenAi/Resources/Images/LangGraph/Pasted image 20260815014046.png",
-    "GenAi/Resources/Images/LangGraph/Pasted image 20260815014024.png",
     "GenAi/Building Applications Notes/LangGraph/1. What is Agentic AI.md",
-    "GenAi/Resources/Images/LangGraph/Pasted image 20260809031444.png",
     "GenAi/Building Applications Notes/Langchain/Agents/3. Agents in Langchain.md",
     "GenAi/Building Applications Notes/Langchain/Agents/2. Tool Calling.md",
-    "GenAi/Building Applications Notes/Langchain/Agents/1. Tools in LangChain.md",
-    "GenAi/1. GenAi Roadmap.md",
-    "GenAi/Building Applications Notes/Langchain/RAG/6. RAG Background & Pipeline.md",
-    "GenAi/Building Applications Notes/Langchain/RAG/3. Text Splitters.md",
-    "GenAi/Building Applications Notes/Langchain/RAG/1. Document Loader.md",
-    "GenAi/Building Applications Notes/Langchain/RAG/0. RAG (Retrieval Augmented Generation).md",
-    "Welcome.md",
-    "GenAi/Building Applications Notes/Langchain/8. Runnables in LangChains.md"
+    "GenAi/Building Applications Notes/Langchain/Agents/1. Tools in LangChain.md"
   ]
 }
